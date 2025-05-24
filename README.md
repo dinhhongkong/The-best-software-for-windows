@@ -6,6 +6,14 @@ https://github.com/namazso/OpenHashTab
 
 https://github.com/Tichau/FileConverter
 
+# `Flow Launcher`
+
+https://github.com/Flow-Launcher/Flow.Launcher
+
+# `Search Everything`
+
+https://www.voidtools.com/
+
 # `IT Tools`
 
 https://it-tools.tech/
